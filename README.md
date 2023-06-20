@@ -1,6 +1,6 @@
 # SNS-SQS-used-in-microservices
 
-## This repository contains sample code that demonstrates how to use Amazon Simple Notification Service (SNS) and Amazon Simple Queue Service (SQS) in a microservices architecture.
+### This repository contains sample code that demonstrates how to use Amazon Simple Notification Service (SNS) and Amazon Simple Queue Service (SQS) in a microservices architecture.
 
 ![sqs sns](https://user-images.githubusercontent.com/28235504/212331414-5c6615ab-2366-415a-8b8e-8567118160ab.jpg)
 
